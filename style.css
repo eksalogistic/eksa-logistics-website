@@ -263,3 +263,8 @@ nav a {
 
 
 }
+.logo img {
+    width: 160px;
+    height: auto;
+    object-fit: contain;
+}
