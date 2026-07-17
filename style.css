@@ -222,4 +222,10 @@ nav a {
     max-width:100%;
 }
 
+}.logo img {
+    width: 150px;
+    height: auto;
+    max-height: 60px;
+    object-fit: contain;
+    display: block;
 }
