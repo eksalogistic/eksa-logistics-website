@@ -18,11 +18,13 @@ body {
 
 /* HEADER */
 
+/* HEADER */
+
 header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 15px 8%;
+    padding: 10px 8%;
     background: white;
     position: sticky;
     top: 0;
@@ -39,14 +41,11 @@ header {
 }
 
 .logo img {
-    width: 210px;
-    height: auto;
-    max-height: 85px;
+    width: 140px !important;
+    height: auto !important;
+    max-height: 55px !important;
     object-fit: contain;
-    display: block;
 }
-
-
 /* NAVIGATION */
 
 nav a {
