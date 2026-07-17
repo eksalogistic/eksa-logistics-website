@@ -267,9 +267,10 @@ nav a {
     width: 160px;
     height: auto;
 }
-.logo {
-    display: flex;
-    align-items: center;
+.logo img {
+    width: 150px;
+    height: auto;
+    object-fit: contain;
 }
 
 header {
